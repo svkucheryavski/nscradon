@@ -26,5 +26,5 @@ The scripts require Image Processing Toolbox.
 
 ## References
 1. [Image Analytical Approach for Needle-Shaped Crystal Counting and Length Estimation](https://pubs.acs.org/doi/10.1021/acs.cgd.5b00720). 
-Wu, Jian X.; Kucheryavskiy, Sergey V.; Jensen, Linda G.; Rades, Thomas; M�llertz, Anette; 
+Wu, Jian X.; Kucheryavskiy, Sergey V.; Jensen, Linda G.; Rades, Thomas; Müllertz, Anette; 
 Rantanen, Jukka. Crystal Growth & Design, Bind 15, Nr. 10, 2015, s. 4876-4885.
